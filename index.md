@@ -25,11 +25,11 @@ Maybe in the future.
 
 ## Other Interests
 
-Fill.
+Coming soon.
 
 ---
 
-Here is a blockquote
+More, coming soon.
 
 > I am still working on this website.
 >
