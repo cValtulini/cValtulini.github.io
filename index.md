@@ -15,10 +15,10 @@ I am currently working on my master thesis in NLP, more specifically topic analy
 Maybe in the future.
 
 ## Experience
-| Year | What | Where |
-|-----|-------|-----|
-| 2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS |
-| 2022 | Erasmus Study | UPC BarcelonaTech |
+ Year | What | Where
+-----|-------|-----
+ 2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS
+ 2022 | Erasmus Study | UPC BarcelonaTech
 
 ---
 
