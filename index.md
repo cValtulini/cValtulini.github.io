@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="https://avatars.githubusercontent.com/u/18557226?v=4">
 
 Hi! I am a M.Sc. student at Università degli Studi di Brescia. 
 
