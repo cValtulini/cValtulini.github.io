@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/18557226?v=4">
 
-Hi! I am a M.Sc. student at [Università degli Studi di Brescia](https://www.unibs.it/). 
+Hi! I am a graduate student at [Università degli Studi di Brescia](https://www.unibs.it/). 
 
 ## Research Interest
 
