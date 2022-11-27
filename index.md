@@ -21,9 +21,12 @@ Maybe in the future.
  2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS
  2022 | Erasmus Study | UPC BarcelonaTech
 
+## Other Interests
+
 ---
 
 Here is a blockquote
 
 > I am still working on this website.
+>
 > CV.
