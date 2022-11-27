@@ -9,9 +9,11 @@ layout: default
 Hi! I am a M.Sc. student at Università degli Studi di Brescia. 
 
 ## Research Interest
+
 I am currently working on my master thesis in NLP, more specifically topic analysis
 
 ## Publications
+
 Maybe in the future.
 
 ## Experience
@@ -23,11 +25,12 @@ Maybe in the future.
 
 ## Other Interests
 
+Fill.
 
 ---
 
 Here is a blockquote
 
 > I am still working on this website.
-> 
+>
 > CV.
