@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/18557226?v=4">
 
-Hi! I am a M.Sc. student at Università degli Studi di Brescia. 
+Hi! I am a M.Sc. student at [Università degli Studi di Brescia](https://www.unibs.it/). 
 
 ## Research Interest
 
@@ -21,7 +21,7 @@ Maybe in the future.
  Year | What | Where
 -----|-------|-----
  2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS
- 2022 | Erasmus Study | UPC BarcelonaTech
+ 2022 | Erasmus Study | [UPC BarcelonaTech](https://www.upc.edu/)
 
 ## Other Interests
 
