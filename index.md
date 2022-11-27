@@ -16,7 +16,7 @@ Maybe in the future.
 
 ## Experience
 | Year | Something that happened |
-|-----|-------|
+|-----|-------|-----|
 | 2020 | B.Sc. in Electronic and Telecommunication Engineering @UniBS  |
 | 2022 | Erasmus @UPCBarcelonatech  |
 
