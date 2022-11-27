@@ -15,7 +15,7 @@ I am currently working on my master thesis in NLP, more specifically topic analy
 Maybe in the future.
 
 ## Experiences
-Year |  |
+Year | Something that happened |
 -----|-------|
 2020 |   |
 2022 |   |
