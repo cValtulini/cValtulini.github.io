@@ -17,8 +17,8 @@ Maybe in the future.
 ## Experiences
 Year |  |
 -----|-------|
-2020 | Emmy  |
-2022 | BAFTA |
+2020 |   |
+2022 |   |
 
 ---
 
