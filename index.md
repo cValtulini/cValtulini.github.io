@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a MSc. student at Università degli Studi di Brescia. 
+Hi! I am a M.Sc. student at Università degli Studi di Brescia. 
 
 ## Research Interest
 I am currently working on my master thesis in NLP, more specifically topic analysis
