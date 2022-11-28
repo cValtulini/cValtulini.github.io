@@ -18,7 +18,7 @@ Maybe in the future.
 
 ## Experience
 
- Year | What | Where
+ When | What | Where
 -----|-------|-----
  2022 | Erasmus Study | [UPC BarcelonaTech](https://www.upc.edu/)
  2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS
