@@ -10,7 +10,7 @@ Hi! I am a graduate student at [Università degli Studi di Brescia](https://www.
 
 ## Research Interest
 
-I am currently working on my master thesis in NLP, more specifically topic analysis
+I am currently working on my master thesis in Natural Language Processing & Understanding, with a focus on topic discovery and analysis in customer feedback.
 
 ## Publications
 
