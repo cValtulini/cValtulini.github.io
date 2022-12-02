@@ -22,7 +22,7 @@ Maybe in the future.
  When | What | Where
 -----|-------|-----
  2022 | Erasmus Study | [UPC BarcelonaTech](https://www.upc.edu/)
- 2020 | B.Sc. in Electronic and Telecommunication Engineering | UniBS
+ 2020 | B.Sc. in Electronic and Telecommunication Engineering <br />BERT Language Model for Natural Language Processing | UniBS
 
 # Personal Stuff
 
