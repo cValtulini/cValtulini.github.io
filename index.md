@@ -13,10 +13,6 @@ I am a graduate student at [Università degli Studi di Brescia](https://www.unib
 
 I am currently working on my master thesis in Natural Language Processing & Understanding, with a focus on topic discovery and analysis in customer feedback.
 
-## Publications
-
-Maybe in the future.
-
 ## Experience
 
  When | What | Where
